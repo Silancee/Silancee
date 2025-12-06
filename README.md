@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 👋 Merhaba, Ben [Adınız]!
+### 👋 Merhaba, Ben [Sıla😊]!
 
 Bilişim Sistemleri Ve Teknolojileri öğrencisiyim. Makine Öğrenimi konularına yoğunlaşıyorum. Özellikle görüntü işleme ve yapay sinir ağları ile ilgili projeler geliştiriyorum.
 
