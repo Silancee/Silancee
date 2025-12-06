@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Silancee/Silancee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Merhaba, Ben [Adınız]!
 
-Here are some ideas to get you started:
+Bilişim Sistemleri Ve Teknolojileri öğrencisiyim. Makine Öğrenimi konularına yoğunlaşıyorum. Özellikle görüntü işleme ve yapay sinir ağları ile ilgili projeler geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=OpenCV&logoColor=white" />
+
+</p>
