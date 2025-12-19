@@ -50,4 +50,18 @@ Bu rozetler, kullandığım programlama dillerini, kütüphaneleri ve araçları
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
        alt="LinkedIn" width="40" height="40"/>
 </a>
+## 📫 Benimle iletişime geç
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/Sıla_İnce" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:silaince313@gmail.com">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg"
+         alt="E-posta" width="40" height="40"/>
+  </a>
+</p>
+
 
