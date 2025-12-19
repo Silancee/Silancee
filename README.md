@@ -1,6 +1,6 @@
 
 
-### 👋 Merhaba, Ben [Sıla😊]!
+### 👋 Merhaba, Ben Sıla😊
 
 Bilişim Sistemleri Ve Teknolojileri öğrencisiyim. Makine Öğrenimi konularına yoğunlaşıyorum. Özellikle görüntü işleme ve derin öğrenme ile ilgili projeler geliştiriyorum.
 Teknolojinin Yapay Zeka alanında yarattığı dönüşümlere oldukça ilgiliyim.. Temel olarak Python ve C# dillerine hakimim ve kendimi özellikle Görüntü İşleme, Makine Öğrenimi, Veri Bilimi ve Web geliştirme konularında geliştirmeye odaklandım.
