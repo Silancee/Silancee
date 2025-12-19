@@ -46,3 +46,8 @@ Bu rozetler, kullandığım programlama dillerini, kütüphaneleri ve araçları
 
 * **LinkedIn:** [https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin]
 * **E-posta:** [silaince313@gmail.com]
+* <a href="https://www.linkedin.com/in/Sıla_İnce" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+       alt="LinkedIn" width="40" height="40"/>
+</a>
+
