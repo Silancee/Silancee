@@ -1,8 +1,6 @@
 
 
-### 👋 Merhaba, Ben Sıla😊
-
-👋 Merhaba, ben Sıla 😊  
+### 👋 Merhaba, Ben Sıla😊 
 
 Bilişim Sistemleri ve Teknolojileri öğrencisiyim.  
 Makine öğrenmesi, özellikle de **görüntü işleme ve derin öğrenme** alanlarında projeler geliştirmeyi seviyorum.
