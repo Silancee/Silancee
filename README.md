@@ -2,8 +2,14 @@
 
 ### 👋 Merhaba, Ben Sıla😊
 
-Bilişim Sistemleri Ve Teknolojileri öğrencisiyim. Makine Öğrenimi konularına yoğunlaşıyorum. Özellikle görüntü işleme ve derin öğrenme ile ilgili projeler geliştiriyorum.
-Teknolojinin Yapay Zeka alanında yarattığı dönüşümlere oldukça ilgiliyim.. Temel olarak Python ve C# dillerine hakimim ve kendimi özellikle Görüntü İşleme, Makine Öğrenimi, Veri Bilimi ve Web geliştirme konularında geliştirmeye odaklandım.
+👋 Merhaba, ben Sıla 😊  
+
+Bilişim Sistemleri ve Teknolojileri öğrencisiyim.  
+Makine öğrenmesi, özellikle de **görüntü işleme ve derin öğrenme** alanlarında projeler geliştirmeyi seviyorum.
+
+Yapay zekânın dünyayı nasıl dönüştürdüğünü keşfetmek beni motive ediyor.  
+Python ve C# kullanarak veri bilimi, makine öğrenmesi ve web alanlarında kendimi geliştirmeye devam ediyorum.
+
 
 
 
